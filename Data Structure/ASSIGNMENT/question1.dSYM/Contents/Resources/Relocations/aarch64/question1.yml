@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sajanshrestha/DSA/ASSIGNMENT/question1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _linearSearch, symObjAddr: 0x0, symBinAddr: 0x1000039B8, symSize: 0x124 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _myCar, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0xB3, offset: 0xB3, size: 0x8, addend: 0x0, symName: _linearSearch, symObjAddr: 0x0, symBinAddr: 0x1000039B8, symSize: 0x124 }
+  - { offsetInCU: 0xE5, offset: 0xE5, size: 0x8, addend: 0x0, symName: _sort, symObjAddr: 0x124, symBinAddr: 0x100003ADC, symSize: 0x1AC }
+  - { offsetInCU: 0x125, offset: 0x125, size: 0x8, addend: 0x0, symName: _binarySearch, symObjAddr: 0x2D0, symBinAddr: 0x100003C88, symSize: 0x174 }
+  - { offsetInCU: 0x173, offset: 0x173, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x444, symBinAddr: 0x100003DFC, symSize: 0xA8 }
+...

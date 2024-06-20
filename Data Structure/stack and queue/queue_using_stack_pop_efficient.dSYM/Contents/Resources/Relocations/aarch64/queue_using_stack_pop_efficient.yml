@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sajanshrestha/Desktop/DSA/DSA_LAB/stack and queue/queue_using_stack_pop_efficient'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _pushStack, symObjAddr: 0x0, symBinAddr: 0x100003AE0, symSize: 0xB4 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _top1, symObjAddr: 0x42C, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x5B, offset: 0x5B, size: 0x8, addend: 0x0, symName: _top2, symObjAddr: 0x430, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offsetInCU: 0x7E, offset: 0x7E, size: 0x8, addend: 0x0, symName: _stack1, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0x98, offset: 0x98, size: 0x8, addend: 0x0, symName: _stack2, symBinAddr: 0x100008010, symSize: 0x0 }
+  - { offsetInCU: 0xA1, offset: 0xA1, size: 0x8, addend: 0x0, symName: _pushStack, symObjAddr: 0x0, symBinAddr: 0x100003AE0, symSize: 0xB4 }
+  - { offsetInCU: 0xE1, offset: 0xE1, size: 0x8, addend: 0x0, symName: _popStack, symObjAddr: 0xB4, symBinAddr: 0x100003B94, symSize: 0xB0 }
+  - { offsetInCU: 0x117, offset: 0x117, size: 0x8, addend: 0x0, symName: _displayStack, symObjAddr: 0x164, symBinAddr: 0x100003C44, symSize: 0xC8 }
+  - { offsetInCU: 0x157, offset: 0x157, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x22C, symBinAddr: 0x100003D0C, symSize: 0x1F0 }
+...
